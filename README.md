@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Reyeszzz/Reyeszzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, Soy Reyes! 👋
 
-Here are some ideas to get you started:
+🤓 Estudiante de Ingenieria Informatica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧐 Trabajo y estudio, enfocado en aprender nuevas cosas
+
+🎧 Me gusta la musica 
+
+## Hasta dia de hoy 💭
+
+😊 He realizado varios projectos de manera autodidacta, lo cual hizo que me gustara la programacion 
+
+👌 Desde lo mas sencillo como un projecto del colegio hasta el inventario de una empresa, la cual a dia de hoy sigeun utilizando 
+
+## Lenguajes de programación que me gustan 💻
+
+💆‍♂️Entre los lenguajes que he utilizado se encuentran:
+C#, Python, JavaScript, SQL...
